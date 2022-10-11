@@ -4,3 +4,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* Main styling */
+
+@font-face {
+    font-family: my-style ;
+    src: url('Vonique\ 92_D.otf');
+}
+
+
+body {
+    font-family: my-style;
+}
