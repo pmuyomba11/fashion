@@ -207,6 +207,7 @@ background: url('./img/shoe.jpg') no-repeat center center/cover;
     margin: auto;
     margin-top: 20px;
    
+   
 }
 
 
@@ -217,4 +218,39 @@ background: url('./img/shoe.jpg') no-repeat center center/cover;
     padding: 5px;
     
     
+}
+
+/* form styling */
+
+#contact-form h1{
+    padding-top: 40px;
+    font-weight: 200;
+    font-size: 50px;
+}
+#contact-form .form-group{
+    margin-bottom: 20px;
+}
+
+#contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+
+#contact-form input:focus,
+#contact-form textarea:focus{
+    outline: none;
+    border-color: #f7c08a;
+}
+
+
+  .submit{
+margin-bottom: 435px;
 }
