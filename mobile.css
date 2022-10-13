@@ -1,0 +1,41 @@
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+#showcase .lead {
+    display: none;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+
+    padding: 5px;
+    border-bottom: 1px dotted #444;
+    margin-top: 5px;
+    text-align: center;
+
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    
+}
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+ 
+
+#showcase h1{
+    padding-top: 5px;
+}
