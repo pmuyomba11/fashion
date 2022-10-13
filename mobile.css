@@ -8,12 +8,13 @@
 
 #navbar ul, #navbar ul li {
     float: none;
+    text-align: center;
 }
 
 #navbar ul li a {
 
     padding: 5px;
-    border-bottom: 1px dotted #444;
+    border-bottom: 1px solid #444;
     margin-top: 5px;
     text-align: center;
 
@@ -32,9 +33,14 @@
 .box {
     float: none;
     width: 100%;
+    
 }
 
- 
+ #features .box p {
+    text-align: center;
+    padding: 20px;
+    
+ }
 
 #showcase h1{
     padding-top: 5px;
